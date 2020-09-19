@@ -14,6 +14,8 @@ I'm a Web Developper & ML enthusiast from Dhaka, Bangladesh who enjoys building 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=royayon)](https://github.com/anuraghazra/github-readme-stats)
 
-![Profile views](https://gpvc.arturio.dev/royayon)  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=royayon)](https://github.com/ryo-ma/github-profile-trophy)
+
+![Profile views](https://gpvc.arturio.dev/royayon)  
+
