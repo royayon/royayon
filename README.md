@@ -1,7 +1,5 @@
 ### Hi there 👋, my name is Ayon Roy
 #### I am a Web Developper & ML enthusiast.
-![I am a Web Developper & ML enthusiast.](https://ayon.netlify.com/static/696471b8ae9606c1f53b716fd68284fb/89afa/me.webp)
-
 I'm a Web Developper & ML enthusiast from Dhaka, Bangladesh who enjoys building things that creates impact on people, that helps others. I develop websites and web apps with efficient and modern backends. I design and develop Deep Learning Models and enjoy learning and exploring..
 
 ## Skills and Experience
