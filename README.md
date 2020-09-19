@@ -1,8 +1,8 @@
-### Hi there 👋, my name is Ayon Roy
+## Hi there 👋, my name is Ayon Roy
 #### I am a Web Developper & ML enthusiast.
 I'm a Web Developper & ML enthusiast from Dhaka, Bangladesh who enjoys building things that creates impact on people, that helps others. I develop websites and web apps with efficient and modern backends. I design and develop Deep Learning Models and enjoy learning and exploring..
 
-## Skills and Experience
+### Skills and Experience
 * ⚛ React
 * 📱 React Native
 * 💻 HTML, CSS, JS
